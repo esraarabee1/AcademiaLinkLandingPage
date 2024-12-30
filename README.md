@@ -23,8 +23,8 @@
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/yourusername/academialink.git
-cd academialink
+git clone https://github.com/esraarabee1/AcademiaLinkLandingPage.git
+cd 
 ```
 
 ### 2. Install Dependencies:
