@@ -24,7 +24,7 @@
 
 ```bash
 git clone https://github.com/esraarabee1/AcademiaLinkLandingPage.git
-cd 
+cd
 ```
 
 ### 2. Install Dependencies:
@@ -62,15 +62,9 @@ academialink/
 
 ## Project Screenshots
 
-### Home Page Screenshot
+### Landing Page Screenshot
 
-![Home Page](./src/assets/p1.png)
-
----
-
-## Contribution
-
-Contributions to improve the project are welcome! Please open an **issue** or submit a **pull request** if you have a new idea or found a bug that needs fixing.
+![Landing Page](./src/assets/show.png)
 
 ---
 
