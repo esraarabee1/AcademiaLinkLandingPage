@@ -21,8 +21,9 @@ const Footer = () => {
             <span className="text-white">AcademiaLink</span>
           </a>
           <p className="md:w-1/2">
-            lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-            lorem lorem lorem lorem lorem.
+            Your success is our mission. Join us for quality learning and
+            flexible courses. Let’s grow together! We look forward to being part
+            of your success!
           </p>
           <div>
             <input
@@ -78,9 +79,7 @@ const Footer = () => {
               <h4 className="text-xl">Contacts</h4>
               <ul className="space-y-3">
                 <p className=" hover:text-gray-300">1234-567-890</p>
-                <p className=" hover:text-gray-300">123 xyz 123</p>
-                <p className=" hover:text-gray-300">About</p>
-                <p className=" hover:text-gray-300">Pricing</p>
+                <p className=" hover:text-gray-300">1234-567-890</p>
               </ul>
             </div>
           </div>

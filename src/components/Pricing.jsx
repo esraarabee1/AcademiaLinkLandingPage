@@ -33,8 +33,8 @@ const Pricing = () => {
           Here are all our plans
         </h2>
         <p className="text-tartiary md:w-1/3 mx-auto px-4">
-          lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem
-          lorem lorem lorem lorem lorem.
+          We offer flexible plans to suit your needs, whether you're looking for
+          short-term commitment or long-term growth.
         </p>
       </div>
       <div className="mt-16">
